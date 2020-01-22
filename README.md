@@ -1,3 +1,4 @@
-Hi
+#!/usr/bin/perl -w
 
-welcome Java boot strap 123
+print "HELLO JAVABOOTAPPLICATION";
+
